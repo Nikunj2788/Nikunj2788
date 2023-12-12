@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full stack Java Developer <br>Working as Freelancer 
+As a Full Stack Java Developer with one year of professional experience, I specialize in crafting robust solutions using Spring Boot for the backend and React.js for dynamic frontend experiences. My proficiency extends to deploying applications seamlessly on servers. Dedicated to delivering excellence, I find joy in transforming ideas into functional, user-friendly web solutions.
 
 
 ## 🌐 Socials:
